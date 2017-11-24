@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2Biy8Pv' target='_blank'><img src='http://bit.ly/2jXy43D' width='500px'/><br/>13 HOTLINE 0938155993</a>. Đất Nền Sài Gòn Giá Rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2Biy8Pv' target='_blank'><img src='https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAqoAAAAJGM2ZDUyNzYyLWMzMWUtNDBjNC04M2IyLWE0N2Y4MWQ5NjQwMA.jpg' width='500px'/><br/>13 HOTLINE 0938155993</a>. Đất Nền Sài Gòn Giá Rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
