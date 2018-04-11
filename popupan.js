@@ -2,7 +2,7 @@
 	var url_popup = 'https://banggiathanhnamdragon.blogspot.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://banggiathanhnamdragon.blogspot.com/';
+	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
