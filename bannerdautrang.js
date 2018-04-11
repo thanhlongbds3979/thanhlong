@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://datnenhocmongiare3979.blogspot.com/' target='_blank'><img src='https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAqoAAAAJGM2ZDUyNzYyLWMzMWUtNDBjNC04M2IyLWE0N2Y4MWQ5NjQwMA.jpg' width='500px'/><br/>Đất Nền Sài Gòn Giá Rẻ</a>. HOTLINE 0938155993  <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://banggiathanhnamdragon.blogspot.com/' target='_blank'><img src='https://2.bp.blogspot.com/-YjjnbiWxqks/Ws4FsZbvSNI/AAAAAAAACXA/292iu6DgzEw1oFC45EC3FatQl13fITA7gCLcBGAs/s1600/tien-ich-thanh-nam-dragon.png' width='500px'/><br/>Bán đất nền tại Bình Chánh</a>. Liên hệ 0908155993. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
