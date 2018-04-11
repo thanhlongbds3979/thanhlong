@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/1JdPEQv';
+	var url_popup = 'https://banggiathanhnamdragon.blogspot.com';
 
       //<![CDATA[
 	  // var url_ppp = 'https://banggiathanhnamdragon.blogspot.com/';
