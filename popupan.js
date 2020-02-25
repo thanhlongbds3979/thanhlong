@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://duansaigonstarcity.blogspot.com/';
+	var url_popup = 'https://nhadatbonphuong.net/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://duansaigonstarcity.blogspot.com/';
+	  // var url_ppp = 'https://nhadatbonphuong.net/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
